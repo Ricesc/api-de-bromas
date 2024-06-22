@@ -13,7 +13,7 @@ La API de bromas proporciona endpoints para crear, leer, actualizar y eliminar b
 ## Endpoints de la API
 
 -   Obtener todas los bromas: `GET /api/jokes`
--   Obtener una broma específica: `GET /api/jokes/:\_id`
+-   Obtener una broma específica: `GET /api/jokes/:_id`
 -   Crear una nueva broma: `POST /api/jokes/new`
--   Actualizar una broma: `PUT /api/jokes/update/:\_id`
--   Eliminar una broma: `DELETE /api/jokes/delete/:\_id`
+-   Actualizar una broma: `PUT /api/jokes/update/:_id`
+-   Eliminar una broma: `DELETE /api/jokes/delete/:_id`
